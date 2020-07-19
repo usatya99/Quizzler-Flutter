@@ -1,6 +1,6 @@
-# quizzler_flutter
+# Quizzee Flutter
 
-A new Flutter application.
+Quiz App really Fun App..!
 
 ## Getting Started
 
